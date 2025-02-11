@@ -1,2 +1,2 @@
 # A-Blinking-LED-Circuit
-This Experiment is for a Blinking Light LED Circuit, using Arduino Uno with LED interfaced to it and serving as output transducer.
+This Experiment is for a Blinking Light LED Circuit as a part of our Computer Engineering Lab. We used Arduino Uno with LED interfaced to it and serving as output transducer. After setting up our basic LED circuit, we moved the end of the first jumper wire from the red "+" collumn and placed it into pin #13 on the Arduino board to control when the power is on or off for the circuit. 
